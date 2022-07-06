@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentdecooman&label=Profile%20views&color=ff6251&style=flat" alt="vincentdecooman" /> </p>
 
-- 🔭 Je travaille actuellement chez **Desjardins**
+- 🔭 Je travaille actuellement chez **Desjardins** depuis mars 2020
 
 - 🌱 Je suis en train d'apprendre **React native**
 
