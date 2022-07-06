@@ -7,9 +7,9 @@
 
 - 🌱 Je suis en train d'apprendre **React native**
 
-- 📫 Vous pouvez me rejoindre via **vincent.decooman123@gmail.com**
+- 📫 Vous pouvez me rejoindre au **<a href="mailto:vincent.decooman123@gmail.com">vincent.decooman123@gmail.com<a/>**
 
-- ⚡ Fun fact **Toujours partant pour jouer au volleyball!**
+- ⚡ Fun fact : **Toujours partant pour jouer au volleyball 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
