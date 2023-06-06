@@ -5,8 +5,6 @@
 
 - 🔭 Je travaille actuellement chez **Desjardins** depuis mars 2020
 
-- 🌱 Je suis en train d'apprendre **React native**
-
 - 📫 Vous pouvez me rejoindre au **<a href="mailto:vincent.decooman123@gmail.com">vincent.decooman123@gmail.com<a/>**
 
 - ⚡ Fun fact : **Toujours partant pour jouer au volleyball 😁**
