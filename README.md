@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentdecooman&label=Profile%20views&color=ff6251&style=flat" alt="vincentdecooman" /> </p>
 
-- 🔭 Je travaille actuellement chez **Desjardins** depuis mars 2020
+- 🔭 Je travaille actuellement chez **Lucilab**
 
 - 📫 Vous pouvez me rejoindre au **<a href="mailto:vincent.decooman123@gmail.com">vincent.decooman123@gmail.com<a/>**
 
